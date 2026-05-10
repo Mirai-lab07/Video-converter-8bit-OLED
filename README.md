@@ -42,7 +42,7 @@ Sila pasang library berikut melalui **Library Manager** di Arduino IDE:
 ## 🛠️ Tutorial Penggunaan
 
 ### Langkah 1: Jana Kod di Web
-1. Buka fail `index.html` pada pelayar web.
+1. Buka fail `index.html` pada web (google,safari,chrome/etc).
 2. Muat naik fail gambar (.png/.jpg), GIF, atau video.
 3. Laraskan tetapan sehingga preview di bahagian **OLED Live** nampak jelas.
 4. Jika menggunakan video/GIF, tekan butang **"Extract Smooth Animation"**.
